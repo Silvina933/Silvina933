@@ -1,0 +1,20 @@
+.nav{ 
+    background: color red;
+}  
+.article { 
+    background-color: beige;
+    color: aliceblue;
+    border: 5px solid black;
+    border: border-radius 5px;
+    display: grid;
+    grid-template-columns: max-content;
+     } 
+     .footer{
+        background-color: blueviolet;
+      }
+
+
+
+
+
+
